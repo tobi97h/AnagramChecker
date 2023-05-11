@@ -9,3 +9,5 @@ Like so:
 ```sh
 ./app race care
 ```
+
+Alternatively you can find a precomipled version in the releases section. Simply download, extract and run it from the `bin` folder.
